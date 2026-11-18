@@ -1,7 +1,7 @@
 
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="./img.jpeg" width="100%" alt="KOUDORO Jean-Morelle - Backend & Full-Stack Developer" />
+  <img src="./img.jpg" width="100%" alt="KOUDORO Jean-Morelle - Backend & Full-Stack Developer" />
 </p>
 
 <h1 align="center">👋 Bonjour, je suis KOUDORO Jean-Morelle</h1>
