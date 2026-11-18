@@ -32,3 +32,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## 👨‍💻 À propos de moi
+
+- 🔭 Je travaille sur des applications web et des solutions métier.
+- 🌱 J'approfondis actuellement Python, FastAPI et l'automatisation.
+- 💻 Je développe principalement avec PHP/Laravel et C#/.NET.
+- ⚡ Je m'intéresse à l'intelligence artificielle et aux assistants de développement.
+- 🎯 Mon objectif : concevoir des applications robustes, utiles et évolutives.
+- 📍 Basé à Lomé, Togo.
+- 🤝 Ouvert aux opportunités professionnelles et aux collaborations.
+
