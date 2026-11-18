@@ -43,3 +43,24 @@
 - 📍 Basé à Lomé, Togo.
 - 🤝 Ouvert aux opportunités professionnelles et aux collaborations.
 
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://mon-portfolio-phi-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/jean-morelle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Jean--Morelle-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Lomé, Togo
+</p>
+
+---
+
+<p align="center">
+  <i>Construire, apprendre et progresser chaque jour. 🚀</i>
+</p>
+
