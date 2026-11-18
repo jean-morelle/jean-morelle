@@ -12,5 +12,5 @@
   <img src="https://streak-stats.demolab.com?user=jean-morelle&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="./a_polished_modern_developer_github_style_banner_h.png" width="100%" alt="KOUDORO Jean-Morelle - Backend & Full-Stack Developer" />
+  <img src="./img.png" width="100%" alt="KOUDORO Jean-Morelle - Backend & Full-Stack Developer" />
 </p>
